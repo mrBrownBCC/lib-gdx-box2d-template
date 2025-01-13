@@ -58,7 +58,7 @@ configure(subprojects) {
 
 subprojects {
   version = '$projectVersion'
-  ext.appName = 'LIBGDX-Hello-World'
+  ext.appName = 'box2d-snowman'
   repositories {
     mavenCentral()
     maven { url 'https://s01.oss.sonatype.org' }
@@ -70,4 +70,4 @@ subprojects {
   }
 }
 
-eclipse.project.name = 'LIBGDX-Hello-World' + '-parent'
+eclipse.project.name = 'box2d-snowman' + '-parent'

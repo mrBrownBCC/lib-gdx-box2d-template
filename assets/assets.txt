@@ -1,4 +1,1 @@
-koalio-single.png
-koalio.png
-level1.tmx
-tileSet.png
+libgdx.png
