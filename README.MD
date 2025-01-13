@@ -9,8 +9,9 @@ Become familiar with the box2d library. Modify the snowman shape to be a full sn
 [Box2d with libgdx](https://libgdx.com/wiki/extensions/physics/box2d#initialization)
 
 # Programming Instructions:
-0. Go read the first few sections of the source above!!
-[alt text](image.png)
+0. Go read the first few sections of the source above!
+
+![alt text](image.png)
 1. Try changing the following numbers within the program, and see what happens!
     -gravity
     -ball restitution (bounciness)
